@@ -93,7 +93,7 @@ Performed the following analyses:
 
 - Data visualization
 
-- **Visuals**
+ **Visuals**
 
-- 
+[Distribution of top 5 tags](https://github.com/MonicaAniedobe/Quotes-Web-Scrapping-/blob/main/Distribution%20of%20top%205%20tags.png)
 
