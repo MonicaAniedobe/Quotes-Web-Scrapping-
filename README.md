@@ -104,3 +104,5 @@ Performed the following analyses:
 * [Top 10 tags](https://github.com/MonicaAniedobe/Quotes-Web-Scrapping-/blob/main/Top%2010%20tags.png)
 
 * [Share of top 5 Authors by Quotes](https://github.com/MonicaAniedobe/Quotes-Web-Scrapping-/blob/main/Top%205%20Authors%20by%20Quotes.png)
+
+**[Scripts](https://github.com/MonicaAniedobe/Quotes-Web-Scrapping-/blob/main/Static%20web%20scrapping.ipynb)**
