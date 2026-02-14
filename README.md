@@ -95,9 +95,8 @@ Performed the following analyses:
 
  **Visuals**
 
-[Distribution of top 5 tags](https://github.com/MonicaAniedobe/Quotes-Web-Scrapping-/blob/main/Distribution%20of%20top%205%20tags.png)
+* [Distribution of top 5 tags](https://github.com/MonicaAniedobe/Quotes-Web-Scrapping-/blob/main/Distribution%20of%20top%205%20tags.png)
 
-[Distribution of number of tags per Quotes](https://github.com/MonicaAniedobe/Quotes-Web-Scrapping-/blob/main/Number%20of%20tags%20per%20quotes.png)
+* [Distribution of number of tags per Quotes](https://github.com/MonicaAniedobe/Quotes-Web-Scrapping-/blob/main/Number%20of%20tags%20per%20quotes.png)
 
-
-
+* [Top 10 Authors By number of quotes](https://github.com/MonicaAniedobe/Quotes-Web-Scrapping-/blob/main/Top%2010%20%20actors%20by%20Quotes.png)
